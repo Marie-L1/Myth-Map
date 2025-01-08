@@ -9,7 +9,7 @@ Myth Map is an interactive web application designed to explore myths and legends
 - Design: Figma, Canva
 - Hosting: Vercel (frontend), Render(backend)
 
-### Imaged:
+### Images:
 Coming soon!
 
 ### Check it out here: Coming Soon!
